@@ -1,0 +1,78 @@
+Python Assignment # 6 
+
+Name: Zeeshan Ali 
+
+Email: zak.zeeshank@gmail.com 
+
+Question 1: Define Object Oriented Programming Language? 
+
+Answer:  Programming paradigm in which all the language utilizes objects for creating programs. 
+
+Question 2: List down the Benefits of OOP? 
+
+Answer:  
+
+Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming.  
+
+The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function. 
+
+ It enables programmers to create modules that do not need to be changed when a new type of object is added. 
+
+A programmer can simply create a new object that inherits many of its features from existing objects. This makes object-oriented programs easier to modify. 
+
+Question 3 Differentiate between function and method? 
+
+Function 
+
+Method 
+
+A function is a piece of code (set if instructions) that is called by name. 
+
+It can be passed data to operate on (i.e. the parameters) and can optionally return data (the return value). 
+
+All data that is passed to a function is explicitly passed. 
+
+A method is a piece of code that is called by a name that is associated with an object. 
+
+A method is implicitly passed the object on which it was called. 
+
+A method is able to operate on data that is contained within the class 
+
+ 
+
+Question 4: Define the following terms: 
+
+1. Class 
+
+Answer:  
+
+A category of objects. The class defines all the common properties of the different objects that belong to it. 
+
+Class is a blueprint for an object or we say as design. 
+
+It is the map of objects.  
+
+It is user defined data type which holds its own data member and member functions.   
+
+2. Object 
+
+Answer: 
+
+A self-contained entity that consists of both data and procedures to manipulate the data.  
+
+Object is an instance or we may call it a real-world entity. 
+
+It’s the physical implementation of class.  
+
+It’s the variable of user defined class. 
+
+3. Attribute 
+
+Answer:  The attributes are data members (class variables and instance variables) and methods, accessed via dot notation.  
+
+Reffered as Class variable − A variable that is shared by all instances of a class. Class variables are defined within a class but outside any of the class's methods. 
+
+4. Behavior 
+
+Answer: The behavior of an object is defined by its methods, which are the functions and subroutines defined within the object class. Without class methods, a class would simply be a structure. Methods determine what type of functionality a class has, how it modifies its data, and its overall behavior. 
+
